@@ -9,12 +9,12 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to SAG AR Shop!
+        SAG AR Shop!
       </h1>
 
       <div className="grid">
         <a href="chair_swan.usdz" className="card">
-           <img src="redchair_2x.jpg">
+           <img src="redchair_2x.jpg" alt="AR file" />
   
            <h3>Click on the object to see it on AR mode. </h3>
         </a>
