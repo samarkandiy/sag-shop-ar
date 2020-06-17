@@ -9,12 +9,8 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to our online AR Shop!
+        Welcome to SAG AR Shop!
       </h1>
-
-      <p className="description">
-        Get started by editing <code>pages/index.js</code>
-      </p>
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
