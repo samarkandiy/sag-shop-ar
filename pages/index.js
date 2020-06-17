@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        SAG AR Shop!
+        SAG AR!
       </h1>
 
       <div className="grid">
