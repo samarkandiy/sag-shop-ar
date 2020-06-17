@@ -116,7 +116,7 @@ const Home = () => (
 
       .card {
         margin: 1rem;
-        flex-basis: 45%;
+        flex-basis: 95%;
         padding: 1.5rem;
         text-align: left;
         color: inherit;
