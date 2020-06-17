@@ -54,6 +54,10 @@ const Home = () => (
         align-items: center;
       }
 
+      img {
+        max-width: 100%;
+      }
+
       footer img {
         margin-left: 0.5rem;
       }
