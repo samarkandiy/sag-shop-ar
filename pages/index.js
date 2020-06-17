@@ -13,8 +13,8 @@ const Home = () => (
       </h1>
 
       <div className="grid">
-        <a href="chair_swan.usdz" className="card">
-           <img src="redchair_2x.jpg" alt="AR file" />
+        <a href="/chair_swan.usdz" className="card">
+           <img src="/redchair_2x.jpg" alt="AR file" />
   
            <h3>Click on the object to see it on AR mode. </h3>
         </a>
